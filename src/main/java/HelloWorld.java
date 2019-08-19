@@ -12,6 +12,9 @@ import javax.ws.rs.core.Response;
 import javax.ws.rs.core.UriInfo;
 import java.util.stream.Collectors;
 
+/**
+ * hello
+ */
 @Path("/")
 public class HelloWorld {
 
